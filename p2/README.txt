@@ -10,4 +10,4 @@ this python3 csp code solves 4x4 futoshiki puzzles. prints the output if there i
 	for interpretion:
 		python3 futoshiki.py futoshiki_input.txt
 
-NOTE: PYTHON SHOULD BE 64 -BIT IN ORDER TO USE THE ORTOOLS LIBRARY
+NOTE: PYTHON SHOULD BE 64-BIT IN ORDER TO USE THE ORTOOLS LIBRARY
